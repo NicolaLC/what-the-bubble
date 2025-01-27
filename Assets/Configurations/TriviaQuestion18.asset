@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c00cf58559becd45877057d8be411d3, type: 3}
+  m_Name: TriviaQuestion18
+  m_EditorClassIdentifier: 
+  question: "I\u2019m in soda, champagne, and even in hot tubs, but I\u2019m not
+    alive. What am I? "
+  answer1: Wine
+  answer2: Happiness
+  answer3: Nothing
+  answer4: Bubbles
+  correctAnswerIndex: 3

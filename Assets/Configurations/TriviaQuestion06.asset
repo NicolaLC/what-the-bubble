@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c00cf58559becd45877057d8be411d3, type: 3}
+  m_Name: TriviaQuestion06
+  m_EditorClassIdentifier: 
+  question: 'What song starts with "I''m forever blowing bubbles"? '
+  answer1: A bubble-making anthem
+  answer2: A West Ham United football song
+  answer3: A karaoke favorite at soap factories
+  answer4: A pirate sea shanty
+  correctAnswerIndex: 1

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c00cf58559becd45877057d8be411d3, type: 3}
+  m_Name: TriviaQuestion09
+  m_EditorClassIdentifier: 
+  question: Who invented the first bubble gum?
+  answer1: Mr. Chewy
+  answer2: Walter Diemer
+  answer3: Professor Bubblebeard
+  answer4: A bored bubble scientist
+  correctAnswerIndex: 1

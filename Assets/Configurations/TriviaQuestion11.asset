@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c00cf58559becd45877057d8be411d3, type: 3}
+  m_Name: TriviaQuestion11
+  m_EditorClassIdentifier: 
+  question: "If you blow a bubble and it pops in someone\u2019s face, what\u2019s
+    the polite thing to say? "
+  answer1: Sorry for the splash!
+  answer2: Oops, bubbly accident!
+  answer3: "You\u2019re in my bubble zone!"
+  answer4: No bubbles, no troubles!
+  correctAnswerIndex: 0
