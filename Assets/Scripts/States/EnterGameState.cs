@@ -26,6 +26,6 @@ public class EnterGameState : GameState
 
     private void HandlePlayButtonClick()
     {
-        GameStateMachine.NextState(new StartGameState());
+        GameStateMachine.NextState(new TutorialState());
     }
 }
