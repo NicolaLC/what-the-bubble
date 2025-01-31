@@ -68,8 +68,8 @@ public class GameplayManager : Singleton<GameplayManager>
         }
 
         int index = UnityEngine.Random.Range(0, _currentQuestions.Count);
-        TriviaQuestion question = _currentQuestions[UnityEngine.Random.Range(0, _currentQuestions.Count)];
-        _currentQuestions.RemoveAt(index);
+        TriviaQuestion question = _currentQuestions[index]; // Use the same index
+        _currentQuestions.RemoveAt(index); // Remove the correct question
 
         return question;
     }
